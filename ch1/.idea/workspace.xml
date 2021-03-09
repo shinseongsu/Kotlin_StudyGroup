@@ -7,6 +7,10 @@
     <list default="true" id="0e1c928c-b0d8-4bce-a5a1-1648aa391c80" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../ch01/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch01/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ch01/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ch01/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1pW6TmS7Tx8tRSOyaKMjyMtm2Bd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,67 +44,67 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.MutateKt">
-    <configuration name="MutateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NestedmemoKt">
+    <configuration name="EqualtyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="untitled.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="essence.MutateKt" />
+      <option name="MAIN_CLASS_NAME" value="essence.EqualtyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NocatchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="MemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="untitled.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="essence.NocatchKt" />
+      <option name="MAIN_CLASS_NAME" value="essence.MemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StandaloneKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="MutateconfusionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="untitled.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="essence.StandaloneKt" />
+      <option name="MAIN_CLASS_NAME" value="essence.MutateconfusionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnusedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="NestedmemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="untitled.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="essence.UnusedKt" />
+      <option name="MAIN_CLASS_NAME" value="essence.NestedmemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnusedlnMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="StringtemplateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="untitled.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="essence.UnusedlnMainKt" />
+      <option name="MAIN_CLASS_NAME" value="essence.StringtemplateKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MutateKt" />
-        <item itemvalue="Application.UnusedlnMainKt" />
-        <item itemvalue="Application.UnusedKt" />
-        <item itemvalue="Application.NocatchKt" />
-        <item itemvalue="Application.StandaloneKt" />
+        <item itemvalue="Application.NestedmemoKt" />
+        <item itemvalue="Application.MemoKt" />
+        <item itemvalue="Application.MutateconfusionKt" />
+        <item itemvalue="Application.StringtemplateKt" />
+        <item itemvalue="Application.EqualtyKt" />
       </list>
     </recent_temporary>
   </component>
